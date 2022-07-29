@@ -56,3 +56,4 @@ background-color: transparent;
 color: -webkit-link;
 cursor: pointer;
 text-decoration: underline;
+text-align: center !important;
